@@ -1,2 +1,9 @@
 Hello, this is my first git commit experience.
-- Finish Chapter 01
+
+Chapter 01
+
+This chapter inform me how I move to Perth
+
+Chapter 02 - Work
+
+This is how I start my Work in Perth.
